@@ -11,11 +11,7 @@ from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 
 '''
-# Configurações do Twilio
-account_sid = 'ACe47469237cdb20619039429ffad74703'
-auth_token = '160bd8141167d49fbd762770cd9bb892'
-twilio_number = 'whatsapp:+14155238886'  # Este é o número do Twilio para WhatsApp
-destination_number = 'whatsapp:+5511973656744'  # Número de destino
+
 
 client = Client(account_sid, auth_token)
 
