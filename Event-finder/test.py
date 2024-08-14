@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import time
-from twilio.rest import Client
+#from twilio.rest import Client
 import requests
 from bs4 import BeautifulSoup
 from requests_html import HTMLSession
