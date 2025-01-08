@@ -1,0 +1,122 @@
+{
+    "id": 37491,
+    "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Gintama. Silver Soul Arc 2"
+        ],
+        "en": "Gintama. Silver Soul Arc - Second Half War",
+        "ja": "\u9280\u9b42. \u9280\u30ce\u9b42\u7bc7 \u5f8c\u534a\u6226"
+    },
+    "start_date": "2018-07-09",
+    "end_date": "2018-10-08",
+    "synopsis": "Following the temporary retreat of the Altana Liberation Army from the Kabuki District, the state of the war has seemingly improved. However, as the Oniwaban, Shinsengumi, and residents of the district combat the army's remnants, Edo's greatest inventor Gengai Hiraga is abducted. Responsible for causing the enemy's withdrawal by rendering their weapons useless, Gengai's nanomachine virus is now at risk of being shut down.\n\nMeanwhile, a laser capable of obliterating a planet is activated in Earth's orbit on the Liberation Army's mother ship. Another battle ensues when Shinsuke Takasugi and the rest of the Kiheitai arrive on the vessel to stop the weapon from firing. Forced to fight a war on two fronts, the Yorozuya and their allies must prevail on both sides to save Edo and the rest of the world.\n\n[Written by MAL Rewrite]\n",
+    "mean": 8.88,
+    "rank": 22,
+    "popularity": 1229,
+    "num_list_users": 207690,
+    "num_scoring_users": 99751,
+    "nsfw": "white",
+    "created_at": "2018-03-16T00:47:26+00:00",
+    "updated_at": "2024-11-11T01:56:51+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 57,
+            "name": "Gag Humor"
+        },
+        {
+            "id": 13,
+            "name": "Historical"
+        },
+        {
+            "id": 20,
+            "name": "Parody"
+        },
+        {
+            "id": 21,
+            "name": "Samurai"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        }
+    ],
+    "num_episodes": 14,
+    "start_season": {
+        "year": 2018,
+        "season": "summer"
+    },
+    "broadcast": {
+        "day_of_the_week": "monday",
+        "start_time": "01:35"
+    },
+    "source": "manga",
+    "average_episode_duration": 1440,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1587/91094.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1587/91094l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1518/95051.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1518/95051l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1387/95113.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1387/95113l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1776/96566.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1173/109633.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1173/109633l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1152/109754.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1152/109754l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1419/115065.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1419/115065l.jpg"
+        }
+    ],
+    "background": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen was released on Blu-ray and DVD from October 24, 2018, to February 27, 2019.",
+    "studios": [
+        {
+            "id": 1258,
+            "name": "Bandai Namco Pictures"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "8649",
+            "completed": "128083",
+            "on_hold": "2826",
+            "dropped": "1892",
+            "plan_to_watch": "66234"
+        },
+        "num_list_users": 207684
+    },
+    "ingestion_time": "2025-0107 21:44:56"
+}

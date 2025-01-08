@@ -1,0 +1,96 @@
+{
+    "id": 40591,
+    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains 2nd Season",
+            "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 2nd Season",
+            "Kaguya-sama: Love is War 2nd Season"
+        ],
+        "en": "Kaguya-sama: Love is War?",
+        "ja": "\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044\uff1f\uff5e\u5929\u624d\u305f\u3061\u306e\u604b\u611b\u982d\u8133\u6226\uff5e"
+    },
+    "start_date": "2020-04-11",
+    "end_date": "2020-06-27",
+    "synopsis": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different classes, the only time Kaguya and Miyuki have to be together will soon disappear, putting all of their cunning plans at risk.\n\nA long and difficult election that will decide the fate of the new student council awaits, as multiple challengers fight for the coveted title of president.\n\n[Written by MAL Rewrite]\n",
+    "mean": 8.62,
+    "rank": 90,
+    "popularity": 98,
+    "num_list_users": 1400101,
+    "num_scoring_users": 896819,
+    "nsfw": "white",
+    "created_at": "2019-10-19T06:55:10+00:00",
+    "updated_at": "2024-10-11T09:31:37+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 22,
+            "name": "Romance"
+        },
+        {
+            "id": 23,
+            "name": "School"
+        },
+        {
+            "id": 42,
+            "name": "Seinen"
+        }
+    ],
+    "num_episodes": 12,
+    "start_season": {
+        "year": 2020,
+        "season": "spring"
+    },
+    "broadcast": {
+        "day_of_the_week": "saturday",
+        "start_time": "23:30"
+    },
+    "source": "manga",
+    "average_episode_duration": 1452,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1676/103600.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1676/103600l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1997/103602.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1997/103602l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1693/106290.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1693/106290l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1764/106659.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 56,
+            "name": "A-1 Pictures"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "86586",
+            "completed": "1098697",
+            "on_hold": "19109",
+            "dropped": "11450",
+            "plan_to_watch": "184205"
+        },
+        "num_list_users": 1400047
+    },
+    "ingestion_time": "2025-0107 21:46:01"
+}

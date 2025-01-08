@@ -1,0 +1,98 @@
+{
+    "id": 199,
+    "title": "Sen to Chihiro no Kamikakushi",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Sen and Chihiro's Spiriting Away"
+        ],
+        "en": "Spirited Away",
+        "ja": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057"
+    },
+    "start_date": "2001-07-20",
+    "end_date": "2001-07-20",
+    "synopsis": "Stubborn, spoiled, and na\u00efve, 10-year-old Chihiro Ogino is less than pleased when she and her parents discover an abandoned amusement park on the way to their new house. Cautiously venturing inside, she realizes that there is more to this place than meets the eye, as strange things begin to happen once dusk falls. Ghostly apparitions and food that turns her parents into pigs are just the start\u2014Chihiro has unwittingly crossed over into the spirit world. Now trapped, she must summon the courage to live and work amongst spirits, with the help of the enigmatic Haku and the cast of unique characters she meets along the way.\n\nVivid and intriguing, Sen to Chihiro no Kamikakushi tells the story of Chihiro's journey through an unfamiliar world as she strives to save her parents and return home.\n\n[Written by MAL Rewrite]",
+    "mean": 8.77,
+    "rank": 36,
+    "popularity": 44,
+    "num_list_users": 1917440,
+    "num_scoring_users": 1340746,
+    "nsfw": "white",
+    "created_at": "2005-11-12T07:05:54+00:00",
+    "updated_at": "2024-11-26T03:03:29+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 2,
+            "name": "Adventure"
+        },
+        {
+            "id": 46,
+            "name": "Award Winning"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 6,
+            "name": "Mythology"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2001,
+        "season": "summer"
+    },
+    "source": "original",
+    "average_episode_duration": 7475,
+    "rating": "pg",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/3/55143.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/3/55143l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1127/116848.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1127/116848l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1618/138716.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1618/138716l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1082/138717.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1082/138717l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1390/138718.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1390/138718l.jpg"
+        }
+    ],
+    "background": "Sen to Chihiro no Kamikakushi held the record of being the highest-grossing film in Japanese history from 2001 until 2020. As of December 2020, it has amassed a total of 31.68 billion yen from Japanese box office sales and a total of $395.8 million worldwide. \n\nThis critically acclaimed film has won numerous awards, including the Academy Award\u2014more commonly known as the \"Oscar\"\u2014for Best Animated Feature at the 75th Academy Awards in 2003 as well as the Golden Bear at the 2002 Berlin International Film Festival (alongside Bloody Sunday). It is also among the top 10 in the British Film Institute's list of the \"50 films you should see by the age of 14.\" \n\nThe English version of Sen to Chihiro no Kamikakushi was dubbed by Walt Disney Pictures and premiered in 2002. The film was released on DVD and VHS formats in North America by Buena Vista Home Entertainment in 2003.",
+    "studios": [
+        {
+            "id": 21,
+            "name": "Studio Ghibli"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "26786",
+            "completed": "1734136",
+            "on_hold": "4898",
+            "dropped": "2273",
+            "plan_to_watch": "149280"
+        },
+        "num_list_users": 1917373
+    },
+    "ingestion_time": "2025-0107 21:45:10"
+}

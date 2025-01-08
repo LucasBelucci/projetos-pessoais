@@ -1,0 +1,96 @@
+{
+    "id": 42310,
+    "title": "Cyberpunk: Edgerunners",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "",
+        "ja": "\u30b5\u30a4\u30d0\u30fc\u30d1\u30f3\u30af \u30a8\u30c3\u30b8\u30e9\u30f3\u30ca\u30fc\u30ba"
+    },
+    "start_date": "2022-09-13",
+    "end_date": "2022-09-13",
+    "synopsis": "Dreams are doomed to die in Night City, a futuristic Californian metropolis. As a teenager living in the city's slums, David Martinez is trying to fulfill his mother's lifelong wish for him to reach the top of Arasaka, the world's leading security corporation. To this end, he attends the prestigious Arasaka Academy while his mother works tirelessly to keep their family afloat.\n\nWhen an incident with a street gang leaves David's life in tatters, he stumbles upon Sandevistan cyberware\u2014a prosthetic that grants its wearer superhuman speed. Fueled by rage, David implants the device in his back, using it to exact revenge on one of his tormentors. This gets him expelled from the academy, shattering his hopes of ever making his mother proud.\n\nAfter witnessing David's newfound abilities, the beautiful data thief Lucyna \"Lucy\" Kushinada offers to team up with him, handing him a ticket to salvation. However, associating with Lucy introduces David to the world of Edgerunners\u2014cyborg criminals who will break any law for money. Edgerunners often lose their lives, if the cyberware does not break their minds first; but in his fight for survival inside a corrupt system, David is ready to risk it all.\n\n[Written by MAL Rewrite]",
+    "mean": 8.61,
+    "rank": 95,
+    "popularity": 222,
+    "num_list_users": 856043,
+    "num_scoring_users": 580163,
+    "nsfw": "white",
+    "created_at": "2020-06-25T16:33:19+00:00",
+    "updated_at": "2023-11-24T05:51:17+00:00",
+    "media_type": "ona",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 58,
+            "name": "Gore"
+        },
+        {
+            "id": 68,
+            "name": "Organized Crime"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        }
+    ],
+    "num_episodes": 10,
+    "start_season": {
+        "year": 2022,
+        "season": "summer"
+    },
+    "source": "game",
+    "average_episode_duration": 1500,
+    "rating": "r+",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1562/108236.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1562/108236l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1656/124329.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1656/124329l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1818/126435.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1129/135442.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1129/135442l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1832/144899.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1832/144899l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1786/144908.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1786/144908l.jpg"
+        }
+    ],
+    "background": "Cyberpunk: Edgerunners is based on the Cyberpunk 2077 video game by CD Projekt Red. The series acts as a prequel to the game's story.",
+    "studios": [
+        {
+            "id": 803,
+            "name": "Trigger"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "45249",
+            "completed": "694838",
+            "on_hold": "11371",
+            "dropped": "8551",
+            "plan_to_watch": "95946"
+        },
+        "num_list_users": 855955
+    },
+    "ingestion_time": "2025-0107 21:46:06"
+}

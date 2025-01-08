@@ -1,0 +1,140 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 52807,
+                    "title": "One Punch Man 3",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1885/127108.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1885/127108l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 58567,
+                    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1463/145502.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1463/145502l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 49233,
+                    "title": "Youjo Senki II",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1437/115925.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1437/115925l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            },
+            {
+                "node": {
+                    "id": 53065,
+                    "title": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1890/147012.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1890/147012l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 4
+                }
+            },
+            {
+                "node": {
+                    "id": 55825,
+                    "title": "Jigokuraku 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1500/140418.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1500/140418l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 5
+                }
+            },
+            {
+                "node": {
+                    "id": 58514,
+                    "title": "Kusuriya no Hitorigoto 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1377/146200.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1377/146200l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 6
+                }
+            },
+            {
+                "node": {
+                    "id": 51818,
+                    "title": "Enen no Shouboutai: San no Shou",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1527/146836.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1527/146836l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 7
+                }
+            },
+            {
+                "node": {
+                    "id": 58939,
+                    "title": "Sakamoto Days",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1026/146459.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1026/146459l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 8
+                }
+            },
+            {
+                "node": {
+                    "id": 59192,
+                    "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1687/143891.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 9
+                }
+            },
+            {
+                "node": {
+                    "id": 57592,
+                    "title": "Dr. Stone: Science Future",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1403/146479.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1403/146479l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 10
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=10&ranking_type=upcoming&limit=10"
+        },
+        "ingestion_time": "2025-0103 10:42:43"
+    }
+]

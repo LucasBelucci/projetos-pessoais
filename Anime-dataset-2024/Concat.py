@@ -1,3 +1,4 @@
+# %%
 import json
 import glob
 
@@ -13,7 +14,7 @@ def merge_json_files(directory_path):
 	return merged_data
 
 
-directory_path = "Anime-dataset-2024/DadosColetados/Details"
+directory_path = "Anime-dataset-2024/DadosColetados/Details/"
 output_file = "top_100.json"
 merged_data = merge_json_files(directory_path)
 with open(output_file, 'w', encoding='utf-8') as outfile:
@@ -26,3 +27,4 @@ mypath = "Anime-dataset-2024/DadosColetados/Details"
 filenames = next(walk(mypath), (None, None, []))[2]  # [] if no file
 print(filenames)
 '''
+# %%

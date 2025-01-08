@@ -1,0 +1,140 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 52991,
+                    "title": "Sousou no Frieren",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 5114,
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 60022,
+                    "title": "One Piece Fan Letter",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1455/146229.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1455/146229l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            },
+            {
+                "node": {
+                    "id": 9253,
+                    "title": "Steins;Gate",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 4
+                }
+            },
+            {
+                "node": {
+                    "id": 38524,
+                    "title": "Shingeki no Kyojin Season 3 Part 2",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1517/100633.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1517/100633l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 5
+                }
+            },
+            {
+                "node": {
+                    "id": 28977,
+                    "title": "Gintama\u00b0",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/3/72078.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/3/72078l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 6
+                }
+            },
+            {
+                "node": {
+                    "id": 39486,
+                    "title": "Gintama: The Final",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 7
+                }
+            },
+            {
+                "node": {
+                    "id": 9969,
+                    "title": "Gintama'",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/4/50361.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/4/50361l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 8
+                }
+            },
+            {
+                "node": {
+                    "id": 11061,
+                    "title": "Hunter x Hunter (2011)",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 9
+                }
+            },
+            {
+                "node": {
+                    "id": 15417,
+                    "title": "Gintama': Enchousen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1452/123686l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 10
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=10&ranking_type=all&limit=10"
+        },
+        "ingestion_time": "2025-0103 10:42:35"
+    }
+]

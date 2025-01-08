@@ -1,0 +1,49 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 21,
+                    "title": "One Piece",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 5114,
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 11061,
+                    "title": "Hunter x Hunter (2011)",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1337/99013.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1337/99013l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=3&ranking_type=favorite&limit=3"
+        },
+        "ingestion_time": "2025-0103 10:43:06"
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 820,
+                    "title": "Ginga Eiyuu Densetsu",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 44,
+                    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1656/137618.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 25781,
+                    "title": "Shingeki no Kyojin: Kuinaki Sentaku",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/8/69497.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/8/69497l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            },
+            {
+                "node": {
+                    "id": 30709,
+                    "title": "Kamisama Hajimemashita: Kako-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/3/81250.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 4
+                }
+            },
+            {
+                "node": {
+                    "id": 32366,
+                    "title": "Gintama\u00b0: Aizome Kaori-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1962/133573.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 5
+                }
+            },
+            {
+                "node": {
+                    "id": 777,
+                    "title": "Hellsing Ultimate",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1012/143965.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1012/143965l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 6
+                }
+            },
+            {
+                "node": {
+                    "id": 10937,
+                    "title": "Kidou Senshi Gundam: The Origin",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/4/72702.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/4/72702l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 7
+                }
+            },
+            {
+                "node": {
+                    "id": 20651,
+                    "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/11/79742.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/11/79742l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 8
+                }
+            },
+            {
+                "node": {
+                    "id": 12029,
+                    "title": "Uchuu Senkan Yamato 2199",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/2/36607.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/2/36607l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 9
+                }
+            },
+            {
+                "node": {
+                    "id": 137,
+                    "title": "Hunter x Hunter: Original Video Animation",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1/137.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1/137l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 10
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=10&ranking_type=ova&limit=10"
+        },
+        "ingestion_time": "2025-0103 10:42:51"
+    }
+]

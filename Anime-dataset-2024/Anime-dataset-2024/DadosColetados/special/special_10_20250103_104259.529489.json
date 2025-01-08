@@ -1,0 +1,140 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 60022,
+                    "title": "One Piece Fan Letter",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1455/146229.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1455/146229l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 35247,
+                    "title": "Owarimonogatari 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/6/87322.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/6/87322l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 51535,
+                    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1279/131078.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1279/131078l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            },
+            {
+                "node": {
+                    "id": 21329,
+                    "title": "Mushishi: Hihamukage",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/10/59315.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/10/59315l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 4
+                }
+            },
+            {
+                "node": {
+                    "id": 44087,
+                    "title": "Gintama: The Semi-Final",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1694/110521.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 5
+                }
+            },
+            {
+                "node": {
+                    "id": 24687,
+                    "title": "Mushishi Zoku Shou: Odoro no Michi",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/8/63539.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/8/63539l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 6
+                }
+            },
+            {
+                "node": {
+                    "id": 36275,
+                    "title": "Natsume Yuujinchou Roku Specials",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/10/87615.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/10/87615l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 7
+                }
+            },
+            {
+                "node": {
+                    "id": 6945,
+                    "title": "Gintama: Shiroyasha Koutan",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 8
+                }
+            },
+            {
+                "node": {
+                    "id": 37095,
+                    "title": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/9/89993.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 9
+                }
+            },
+            {
+                "node": {
+                    "id": 53672,
+                    "title": "Violet Evergarden: Recollections",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1902/143097.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 10
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=10&ranking_type=special&limit=10"
+        },
+        "ingestion_time": "2025-0103 10:42:59"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 52807,
+                    "title": "One Punch Man 3",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1885/127108.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1885/127108l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 58567,
+                    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1463/145502.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1463/145502l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 49233,
+                    "title": "Youjo Senki II",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1437/115925.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1437/115925l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=3&ranking_type=upcoming&limit=3"
+        },
+        "ingestion_time": "2025-0103 10:42:42"
+    }
+]

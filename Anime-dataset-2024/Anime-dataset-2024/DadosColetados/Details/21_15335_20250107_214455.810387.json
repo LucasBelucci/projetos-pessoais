@@ -1,0 +1,111 @@
+{
+    "id": 15335,
+    "title": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/10/51723.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/10/51723l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Gintama: The Final Chapter - Be Forever Yorozuya",
+            "Gintama Movie 2"
+        ],
+        "en": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
+        "ja": "\u5287\u5834\u7248 \u9280\u9b42 \u5b8c\u7d50\u7bc7 \u4e07\u4e8b\u5c4b\u3088\u6c38\u9060\u306a\u308c"
+    },
+    "start_date": "2013-07-06",
+    "end_date": "2013-07-06",
+    "synopsis": "When Gintoki apprehends a movie pirate at a premiere, he checks the camera's footage and finds himself transported to a bleak, post-apocalyptic version of Edo, where a mysterious epidemic called the \"White Plague\" has ravished the world's population. It turns out that the movie pirate wasn't a pirate after all\u2014it was an android time machine, and Gintoki has been hurtled five years into the future! Shinpachi and Kagura, his Yorozuya cohorts, have had a falling out and are now battle-hardened solo vigilantes and he himself has been missing for years, disappearing without a trace after scribbling a strange message in his journal.\n\nSetting out in the disguise given to him by the android time machine, Gintoki haphazardly reunites the Yorozuya team to investigate the White Plague, and soon discovers that the key to saving the future lies in the darkness of his own past. Determined to confront a powerful foe, he makes an important discovery\u2014with a ragtag band of friends and allies at his side, he doesn't have to fight alone.\n\n[Written by MAL Rewrite]",
+    "mean": 8.9,
+    "rank": 21,
+    "popularity": 1028,
+    "num_list_users": 247672,
+    "num_scoring_users": 138642,
+    "nsfw": "white",
+    "created_at": "2012-08-26T22:06:53+00:00",
+    "updated_at": "2024-05-08T21:23:59+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 57,
+            "name": "Gag Humor"
+        },
+        {
+            "id": 13,
+            "name": "Historical"
+        },
+        {
+            "id": 20,
+            "name": "Parody"
+        },
+        {
+            "id": 21,
+            "name": "Samurai"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        },
+        {
+            "id": 78,
+            "name": "Time Travel"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2013,
+        "season": "summer"
+    },
+    "source": "manga",
+    "average_episode_duration": 6600,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/8/47621.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/8/47621l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/12/49197.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/12/49197l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/3/51279.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/3/51279l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/10/51723.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 14,
+            "name": "Sunrise"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "5599",
+            "completed": "175511",
+            "on_hold": "1831",
+            "dropped": "1847",
+            "plan_to_watch": "62879"
+        },
+        "num_list_users": 247667
+    },
+    "ingestion_time": "2025-0107 21:44:55"
+}

@@ -1,0 +1,140 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 21,
+                    "title": "One Piece",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 54857,
+                    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1706/144725.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 56752,
+                    "title": "Shiguang Dailiren: Yingdu Pian",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1496/147189.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1496/147189l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            },
+            {
+                "node": {
+                    "id": 51039,
+                    "title": "Doupo Cangqiong: Nian Fan",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1419/126374.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 4
+                }
+            },
+            {
+                "node": {
+                    "id": 52215,
+                    "title": "Chi. Chikyuu no Undou ni Tsuite",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1749/145922.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 5
+                }
+            },
+            {
+                "node": {
+                    "id": 56524,
+                    "title": "Tunshi Xingkong 4th Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1212/138218.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1212/138218l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 6
+                }
+            },
+            {
+                "node": {
+                    "id": 57181,
+                    "title": "Ao no Hako",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1496/147108.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1496/147108l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 7
+                }
+            },
+            {
+                "node": {
+                    "id": 60108,
+                    "title": "One Piece: Gyojin Tou-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1928/146063.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1928/146063l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 8
+                }
+            },
+            {
+                "node": {
+                    "id": 52684,
+                    "title": "Shen Yin Wangzuo 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1279/126735.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1279/126735l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 9
+                }
+            },
+            {
+                "node": {
+                    "id": 55809,
+                    "title": "Xian Ni",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1542/136768.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1542/136768l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 10
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=10&ranking_type=airing&limit=10"
+        },
+        "ingestion_time": "2025-0103 10:42:39"
+    }
+]
