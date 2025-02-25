@@ -1,0 +1,80 @@
+{
+    "id": 53273,
+    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1233/128920l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+        "ja": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3"
+    },
+    "start_date": "2022-12-01",
+    "end_date": "2022-12-01",
+    "synopsis": "After finally escaping the confines of Green Dolphin Street Jail, Jolyne Kuujou\u2014alongside her companions Ermes Costello and Emporio Alni\u00f1o\u2014pursues the villainous priest Enrico Pucci across the state of Florida. Jolyne's allies, Weather Report and Narciso Anasui, struggle to catch up with her in order to help bring an end to Pucci's plot. As both parties pursue the priest, they must battle against Pucci's band of enemy Stand users.\n\nWhile Jolyne's comrades fight for their lives, Pucci races to the Kennedy Space Center. There he hopes to enact his ultimate goal, one he believes God has entrusted to him. He aims to fulfill the will of the Joestars' blood enemy Dio Brando and\u2014by robbing humanity of free will and making them slaves to fate\u2014to create a world where all humans are blissfully happy.\n\nUnable to rely on the aid of her comatose father Joutarou, Jolyne must weaponize all she has learned in prison to confront Pucci in a climactic battle while the world itself hangs in the balance.\n\n[Written by MAL Rewrite]",
+    "mean": 8.53,
+    "rank": 128,
+    "popularity": 1083,
+    "num_list_users": 239166,
+    "num_scoring_users": 157404,
+    "nsfw": "white",
+    "created_at": "2022-10-07T13:48:12+00:00",
+    "updated_at": "2024-10-07T20:19:08+00:00",
+    "media_type": "ona",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 2,
+            "name": "Adventure"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        },
+        {
+            "id": 31,
+            "name": "Super Power"
+        }
+    ],
+    "num_episodes": 14,
+    "start_season": {
+        "year": 2022,
+        "season": "fall"
+    },
+    "source": "manga",
+    "average_episode_duration": 1440,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1233/128920.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1233/128920l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1624/131575.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1624/131575l.jpg"
+        }
+    ],
+    "background": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3 adapts chapters 103-158 of the original manga.",
+    "studios": [
+        {
+            "id": 287,
+            "name": "David Production"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "10098",
+            "completed": "197679",
+            "on_hold": "2593",
+            "dropped": "1169",
+            "plan_to_watch": "27609"
+        },
+        "num_list_users": 239148
+    },
+    "ingestion_time": "2025-0211 20:23:18"
+}

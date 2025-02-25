@@ -1,0 +1,140 @@
+{
+    "id": 777,
+    "title": "Hellsing Ultimate",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1012/143965.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1012/143965l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "Hellsing Ultimate",
+        "ja": "HELLSING OVA"
+    },
+    "start_date": "2006-02-10",
+    "end_date": "2012-12-26",
+    "synopsis": "There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead.\n\nIntegra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil.\n\nIn a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare.\n\n[Written by MAL Rewrite]",
+    "mean": 8.35,
+    "rank": 240,
+    "popularity": 182,
+    "num_list_users": 967887,
+    "num_scoring_users": 500891,
+    "nsfw": "white",
+    "created_at": "2006-02-21T08:28:24+00:00",
+    "updated_at": "2024-07-02T11:54:33+00:00",
+    "media_type": "ova",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 50,
+            "name": "Adult Cast"
+        },
+        {
+            "id": 58,
+            "name": "Gore"
+        },
+        {
+            "id": 14,
+            "name": "Horror"
+        },
+        {
+            "id": 38,
+            "name": "Military"
+        },
+        {
+            "id": 42,
+            "name": "Seinen"
+        },
+        {
+            "id": 37,
+            "name": "Supernatural"
+        },
+        {
+            "id": 32,
+            "name": "Vampire"
+        }
+    ],
+    "num_episodes": 10,
+    "start_season": {
+        "year": 2006,
+        "season": "winter"
+    },
+    "source": "manga",
+    "average_episode_duration": 2962,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/6/7333.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/6/7333l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/11/20116.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/11/20116l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/5/20117.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/5/20117l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/4/34461.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/4/34461l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/11/34463.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/11/34463l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/10/34465.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/10/34465l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/13/34467.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/13/34467l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1972/100199.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1972/100199l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1024/143963.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1024/143963l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1012/143965.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1012/143965l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1045/143966.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1045/143966l.jpg"
+        }
+    ],
+    "background": "Hellsing Ultimate was initially licensed and distributed by Geneon Entertainment USA up until their closure in late 2007. FUNimation Entertainment later picked up the series and finished dubbing it in late 2014. ",
+    "studios": [
+        {
+            "id": 11,
+            "name": "Madhouse"
+        },
+        {
+            "id": 41,
+            "name": "Satelight"
+        },
+        {
+            "id": 894,
+            "name": "Graphinica"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "82169",
+            "completed": "584927",
+            "on_hold": "45153",
+            "dropped": "25509",
+            "plan_to_watch": "230074"
+        },
+        "num_list_users": 967832
+    },
+    "ingestion_time": "2025-0211 20:24:56"
+}

@@ -1,0 +1,108 @@
+{
+    "id": 38481,
+    "title": "Toaru Kagaku no Railgun T",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1819/103287l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Toaru Kagaku no Railgun 3",
+            "Toaru Kagaku no Choudenjihou 3",
+            "A Certain Scientific Railgun 3"
+        ],
+        "en": "A Certain Scientific Railgun T",
+        "ja": "\u3068\u3042\u308b\u79d1\u5b66\u306e\u8d85\u96fb\u78c1\u7832[\u30ec\u30fc\u30eb\u30ac\u30f3]T"
+    },
+    "start_date": "2020-01-10",
+    "end_date": "2020-09-25",
+    "synopsis": "The Daihasei Festival has begun, and that of course means that Tokiwadai Middle School\u2014a prestigious all-girls' middle school\u2014is competing too. Despite the participation of the \"Ace of Tokiwadai,\" Mikoto Misaka, the other students who are participating are still putting their utmost effort into winning, no matter how impossible the feat may seem against her overwhelming might.\n\nHowever, not all is fun and games. Due to the festival, Academy City opens to the outside world, and various factions have begun plotting ways to infiltrate the city. Misaka appears to be on their radar, and as the festival proceeds, people lurking from the shadows begin to emerge...\n\nToaru Kagaku no Railgun T brings back the Tokiwadai Ace and her friends as they dive deeper into the dark side of Academy City. From terrorist attacks to ruthless underground projects, anything is possible in this city.\n\n[Written by MAL Rewrite]",
+    "mean": 8.15,
+    "rank": 464,
+    "popularity": 1065,
+    "num_list_users": 242177,
+    "num_scoring_users": 97882,
+    "nsfw": "white",
+    "created_at": "2018-10-07T08:38:45+00:00",
+    "updated_at": "2025-01-30T22:22:47+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 31,
+            "name": "Super Power"
+        },
+        {
+            "id": 82,
+            "name": "Urban Fantasy"
+        }
+    ],
+    "num_episodes": 25,
+    "start_season": {
+        "year": 2020,
+        "season": "winter"
+    },
+    "broadcast": {
+        "day_of_the_week": "friday",
+        "start_time": "22:00"
+    },
+    "source": "manga",
+    "average_episode_duration": 1460,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1998/95352.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1998/95352l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1819/103287.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1819/103287l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1573/105322.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1573/105322l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1354/105354.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1354/105354l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1483/105468.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1483/105468l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1237/108389.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1237/108389l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 7,
+            "name": "J.C.Staff"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "23347",
+            "completed": "117267",
+            "on_hold": "7269",
+            "dropped": "4297",
+            "plan_to_watch": "89974"
+        },
+        "num_list_users": 242154
+    },
+    "ingestion_time": "2025-0211 20:35:40"
+}

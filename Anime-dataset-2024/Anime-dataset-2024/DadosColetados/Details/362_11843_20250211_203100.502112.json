@@ -1,0 +1,84 @@
+{
+    "id": 11843,
+    "title": "Danshi Koukousei no Nichijou",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "Daily Lives of High School Boys",
+        "ja": "\u7537\u5b50\u9ad8\u6821\u751f\u306e\u65e5\u5e38"
+    },
+    "start_date": "2012-01-10",
+    "end_date": "2012-03-27",
+    "synopsis": "Roaming the halls of the all-boys Sanada North High School are three close comrades: the eccentric ringleader with a hyperactive imagination Hidenori, the passionate Yoshitake, and the rational and prudent Tadakuni. Their lives are filled with giant robots, true love, and intense drama... in their colorful imaginations, at least. In reality, they are just an everyday trio of ordinary guys trying to pass the time, but who said everyday life couldn't be interesting? Whether it's an intricate RPG reenactment or an unexpected romantic encounter on the riverbank at sunset, Danshi Koukousei no Nichijou is rife with bizarre yet hilariously relatable situations that are anything but mundane.\n\n[Written by MAL Rewrite]",
+    "mean": 8.23,
+    "rank": 362,
+    "popularity": 230,
+    "num_list_users": 850850,
+    "num_scoring_users": 426883,
+    "nsfw": "white",
+    "created_at": "2011-10-19T18:01:41+00:00",
+    "updated_at": "2023-01-18T04:07:53+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 57,
+            "name": "Gag Humor"
+        },
+        {
+            "id": 23,
+            "name": "School"
+        }
+    ],
+    "num_episodes": 12,
+    "start_season": {
+        "year": 2012,
+        "season": "winter"
+    },
+    "broadcast": {
+        "day_of_the_week": "tuesday",
+        "start_time": "02:00"
+    },
+    "source": "web_manga",
+    "average_episode_duration": 1440,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/3/33257.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/3/33257l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/9/37015.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/9/37015l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1311/145836.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1311/145836l.jpg"
+        }
+    ],
+    "background": "Danshi Koukousei no Nichijou includes eight pre-airings of about five minutes in length, which were distributed through Nico Nico Douga. These pre-airings were all eventually shown during the TV series' run.\n\nThe anime was released on Blu-ray in a premium and standard edition by NIS America. The former was released on August 6, 2013 and the latter on August 4, 2015. The series was dubbed in Tagalog by Creative Programs, Inc.\n",
+    "studios": [
+        {
+            "id": 14,
+            "name": "Sunrise"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "54900",
+            "completed": "510980",
+            "on_hold": "36370",
+            "dropped": "25170",
+            "plan_to_watch": "223387"
+        },
+        "num_list_users": 850807
+    },
+    "ingestion_time": "2025-0211 20:31:00"
+}

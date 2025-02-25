@@ -1,0 +1,128 @@
+{
+    "id": 10937,
+    "title": "Kidou Senshi Gundam: The Origin",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/4/72702.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/4/72702l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "Mobile Suit Gundam: The Origin",
+        "ja": "\u6a5f\u52d5\u6226\u58eb\u30ac\u30f3\u30c0\u30e0THE ORIGIN"
+    },
+    "start_date": "2015-02-28",
+    "end_date": "2018-05-05",
+    "synopsis": "In the year 0068 of the Universal Century, Casval Rem Deikun's life is thrown into chaotic disarray after the assassination of his father, a prolific figure in the crusade towards civil rights for people who live away from the Earth's surface. Casval and his sister Artesia receive aid from soldiers who were loyal to their father, and the siblings are whisked away from their home, separated, and thrown into a twisted fate that sees them come into their own as soldiers and adults.\n\nYears before stealing the name Char Aznable or his \"Red Comet\" moniker, Casval must contend with the rise of a militarized version of his father's ideology and his own vengeful nature as intergalactic war molds him into a legendary mobile suit pilot.\n\n[Written by MAL Rewrite]\n",
+    "mean": 8.33,
+    "rank": 252,
+    "popularity": 2583,
+    "num_list_users": 77981,
+    "num_scoring_users": 33293,
+    "nsfw": "white",
+    "created_at": "2011-07-10T11:00:10+00:00",
+    "updated_at": "2024-09-04T15:01:39+00:00",
+    "media_type": "ova",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Mecha"
+        },
+        {
+            "id": 38,
+            "name": "Military"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        },
+        {
+            "id": 29,
+            "name": "Space"
+        }
+    ],
+    "num_episodes": 6,
+    "start_season": {
+        "year": 2015,
+        "season": "winter"
+    },
+    "source": "manga",
+    "average_episode_duration": 4268,
+    "rating": "r+",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/6/55871.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/6/55871l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/12/60191.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/12/60191l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/8/67525.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/8/67525l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/5/70435.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/5/70435l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/4/72702.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/4/72702l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/8/74473.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/8/74473l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/12/77868.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/12/77868l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/9/78747.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/9/78747l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/6/81137.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/6/81137l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/3/85464.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/3/85464l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/7/86289.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/7/86289l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1912/92656.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1912/92656l.jpg"
+        }
+    ],
+    "background": "Kidou Senshi Gundam: The Origin adapts volumes 5-7 of the manga of the same name by Yoshikazu Yasuhiko, the animation director and character designer for the original Kidou Senshi Gundam.",
+    "studios": [
+        {
+            "id": 14,
+            "name": "Sunrise"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "9525",
+            "completed": "36860",
+            "on_hold": "3247",
+            "dropped": "1178",
+            "plan_to_watch": "27166"
+        },
+        "num_list_users": 77976
+    },
+    "ingestion_time": "2025-0211 20:25:06"
+}

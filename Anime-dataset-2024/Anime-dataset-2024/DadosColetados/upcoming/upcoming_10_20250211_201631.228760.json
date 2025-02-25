@@ -1,0 +1,140 @@
+[
+    {
+        "data": [
+            {
+                "node": {
+                    "id": 52807,
+                    "title": "One Punch Man 3",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1885/127108.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1885/127108l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 1
+                }
+            },
+            {
+                "node": {
+                    "id": 49233,
+                    "title": "Youjo Senki II",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1437/115925.webp",
+                        "large": "https://cdn.myanimelist.net/images/anime/1437/115925l.webp"
+                    }
+                },
+                "ranking": {
+                    "rank": 2
+                }
+            },
+            {
+                "node": {
+                    "id": 53065,
+                    "title": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1890/147012.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1890/147012l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 3
+                }
+            },
+            {
+                "node": {
+                    "id": 55825,
+                    "title": "Jigokuraku 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1500/140418.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1500/140418l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 4
+                }
+            },
+            {
+                "node": {
+                    "id": 51818,
+                    "title": "Enen no Shouboutai: San no Shou",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1527/146836.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1527/146836l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 5
+                }
+            },
+            {
+                "node": {
+                    "id": 59978,
+                    "title": "Sousou no Frieren 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1750/145801.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1750/145801l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 6
+                }
+            },
+            {
+                "node": {
+                    "id": 59192,
+                    "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1687/143891.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1687/143891l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 7
+                }
+            },
+            {
+                "node": {
+                    "id": 59027,
+                    "title": "Spy x Family Season 3",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1430/143493.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1430/143493l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 8
+                }
+            },
+            {
+                "node": {
+                    "id": 59193,
+                    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1826/143892.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1826/143892l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 9
+                }
+            },
+            {
+                "node": {
+                    "id": 60543,
+                    "title": "Dandadan 2nd Season",
+                    "main_picture": {
+                        "medium": "https://cdn.myanimelist.net/images/anime/1098/147000.jpg",
+                        "large": "https://cdn.myanimelist.net/images/anime/1098/147000l.jpg"
+                    }
+                },
+                "ranking": {
+                    "rank": 10
+                }
+            }
+        ],
+        "paging": {
+            "next": "https://api.myanimelist.net/v2/anime/ranking?offset=10&ranking_type=upcoming&limit=10"
+        },
+        "ingestion_time": "2025-0211 20:16:31"
+    }
+]

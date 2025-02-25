@@ -1,0 +1,103 @@
+{
+    "id": 49721,
+    "title": "Karakai Jouzu no Takagi-san 3",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1861/120361.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1861/120361l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Skilled Teaser Takagi-san 3rd Season",
+            "Karakai Jouzu no Takagi-san Third Season"
+        ],
+        "en": "Teasing Master Takagi-san 3",
+        "ja": "\u304b\u3089\u304b\u3044\u4e0a\u624b\u306e\u9ad8\u6728\u3055\u30933"
+    },
+    "start_date": "2022-01-08",
+    "end_date": "2022-03-26",
+    "synopsis": "As summer break comes to an end, Nishikata is stoked to try out his newest pranks and finally outdo his classmate Takagi once and for all. Despite his losing streak, he is slowly getting to know the unrelenting workings of her crafty mind. However, he soon realizes that Takagi's motivations behind her teasing may not be what he initially assumed. One thing is certain, though: each fun-filled day of strategizing and competing brings the two closer than ever.\n\n[Written by MAL Rewrite]",
+    "mean": 8.38,
+    "rank": 210,
+    "popularity": 1288,
+    "num_list_users": 198156,
+    "num_scoring_users": 89319,
+    "nsfw": "white",
+    "created_at": "2021-09-01T12:38:03+00:00",
+    "updated_at": "2025-01-07T23:17:13+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 74,
+            "name": "Love Status Quo"
+        },
+        {
+            "id": 22,
+            "name": "Romance"
+        },
+        {
+            "id": 23,
+            "name": "School"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        }
+    ],
+    "num_episodes": 12,
+    "start_season": {
+        "year": 2022,
+        "season": "winter"
+    },
+    "broadcast": {
+        "day_of_the_week": "saturday",
+        "start_time": "01:25"
+    },
+    "source": "manga",
+    "average_episode_duration": 1448,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1517/117435.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1517/117435l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1191/117453.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1191/117453l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1594/117625.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1594/117625l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1338/120001.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1338/120001l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1861/120361.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1861/120361l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 247,
+            "name": "Shin-Ei Animation"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "17718",
+            "completed": "109842",
+            "on_hold": "4917",
+            "dropped": "2880",
+            "plan_to_watch": "62781"
+        },
+        "num_list_users": 198138
+    },
+    "ingestion_time": "2025-0211 20:24:30"
+}

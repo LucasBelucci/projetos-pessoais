@@ -1,0 +1,104 @@
+{
+    "id": 46095,
+    "title": "Vivy: Fluorite Eye's Song",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "Vivy -Fluorite Eye's Song-",
+        "ja": "Vivy -Fluorite Eye's Song- (\u30f4\u30a3\u30f4\u30a3 -\u30d5\u30ed\u30fc\u30e9\u30a4\u30c8\u30a2\u30a4\u30ba\u30bd\u30f3\u30b0-)"
+    },
+    "start_date": "2021-04-03",
+    "end_date": "2021-06-19",
+    "synopsis": "When highly evolved AIs set out to eradicate mankind, the carnage that ensues fills the air with the stench of fresh blood and burning bodies. In a desperate bid to prevent the calamity from ever occurring, a scientist bets everything on a remnant from the past.\n\nTurning the clock back a hundred years, AIs are already an integral part of human society, programmed with specific missions meant to be carried out for their entire course of operation. Vivy, the first ever autonomous AI, is a songstress tasked with spreading happiness through her voice. In a theme park where she hardly ever gets a proper audience, she strives to pour her heart out into her performances, bound to repeat it day after day\u2014that is, until an advanced AI from the future appears before her and enlists her help in stopping a devastating war a hundred years in the making. With no time to process the revelation that flips her world upside down, Vivy is catapulted into a century-long journey to avert the violent history yet to come.\n\n[Written by MAL Rewrite]",
+    "mean": 8.39,
+    "rank": 207,
+    "popularity": 413,
+    "num_list_users": 569486,
+    "num_scoring_users": 256448,
+    "nsfw": "white",
+    "created_at": "2021-01-15T10:07:07+00:00",
+    "updated_at": "2024-09-19T22:14:10+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 19,
+            "name": "Music"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 41,
+            "name": "Suspense"
+        },
+        {
+            "id": 78,
+            "name": "Time Travel"
+        }
+    ],
+    "num_episodes": 13,
+    "start_season": {
+        "year": 2021,
+        "season": "spring"
+    },
+    "broadcast": {
+        "day_of_the_week": "saturday",
+        "start_time": "23:30"
+    },
+    "source": "original",
+    "average_episode_duration": 1470,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1187/112969.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1187/112969l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1637/115052.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1637/115052l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1091/115322.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1091/115322l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1551/128960.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1772/145598.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1772/145598l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1489/145669.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1489/145669l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 858,
+            "name": "Wit Studio"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "58648",
+            "completed": "284299",
+            "on_hold": "19377",
+            "dropped": "15455",
+            "plan_to_watch": "191663"
+        },
+        "num_list_users": 569442
+    },
+    "ingestion_time": "2025-0211 20:24:27"
+}

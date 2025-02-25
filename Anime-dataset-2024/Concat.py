@@ -14,8 +14,8 @@ def merge_json_files(directory_path):
 	return merged_data
 
 
-directory_path = "Anime-dataset-2024/DadosColetados/Details/"
-output_file = "top_100.json"
+directory_path = "Anime-dataset-2024/DadosColetados/Details"
+output_file = "top_500.json"
 merged_data = merge_json_files(directory_path)
 with open(output_file, 'w', encoding='utf-8') as outfile:
 	json.dump(merged_data, outfile)

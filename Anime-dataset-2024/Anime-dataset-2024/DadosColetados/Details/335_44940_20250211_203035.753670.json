@@ -1,0 +1,84 @@
+{
+    "id": 44940,
+    "title": "World Trigger 3rd Season",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1617/117474.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1617/117474l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [],
+        "en": "",
+        "ja": "\u30ef\u30fc\u30eb\u30c9\u30c8\u30ea\u30ac\u30fc"
+    },
+    "start_date": "2021-10-10",
+    "end_date": "2022-01-23",
+    "synopsis": "At the Border Defense Agency's headquarters, the B-Rank Wars are underway as each team fights intensely to secure a spot in the upcoming Away Mission. Though Osamu Mikumo and the rest of Tamakoma-2 have pulled through thus far, the final rounds will require them to push far beyond the limits of their current abilities. Taking in a talented new member, the squad begins to train and develop new strategies, but, amid these efforts, the team is shaken by a heated dispute\u2014one that could jeopardize their ticket to the Neighbor's dimension.\n\n[Written by MAL Rewrite]\n",
+    "mean": 8.25,
+    "rank": 335,
+    "popularity": 1850,
+    "num_list_users": 128076,
+    "num_scoring_users": 49417,
+    "nsfw": "white",
+    "created_at": "2020-12-19T03:48:41+00:00",
+    "updated_at": "2024-01-04T16:28:10+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        }
+    ],
+    "num_episodes": 14,
+    "start_season": {
+        "year": 2021,
+        "season": "fall"
+    },
+    "broadcast": {
+        "day_of_the_week": "sunday",
+        "start_time": "01:30"
+    },
+    "source": "manga",
+    "average_episode_duration": 1380,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1178/113744.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1178/113744l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1393/116889.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1393/116889l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1617/117474.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1617/117474l.jpg"
+        }
+    ],
+    "background": "World Trigger 3rd Season was released on Blu-ray in two volumes and on DVD in four volumes from April 27, 2022, to June 22, 2022.",
+    "studios": [
+        {
+            "id": 18,
+            "name": "Toei Animation"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "9978",
+            "completed": "68917",
+            "on_hold": "1927",
+            "dropped": "1334",
+            "plan_to_watch": "45895"
+        },
+        "num_list_users": 128051
+    },
+    "ingestion_time": "2025-0211 20:30:35"
+}

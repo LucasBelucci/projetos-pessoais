@@ -1,0 +1,83 @@
+{
+    "id": 32188,
+    "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/7/77324.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/7/77324l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Steins Gate: Episode 23 (\u03b2)",
+            "Open the Missing Link"
+        ],
+        "en": "Steins;Gate: Open the Missing Link - Divide By Zero",
+        "ja": "\u30b7\u30e5\u30bf\u30a4\u30f3\u30ba\u30fb\u30b2\u30fc\u30c8\u5883\u754c\u9762\u4e0a\u306e\u30df\u30c3\u30b7\u30f3\u30b0\u30ea\u30f3\u30af-Divide By Zero-"
+    },
+    "start_date": "2015-12-03",
+    "end_date": "2015-12-03",
+    "synopsis": "Having reached his emotional breaking point, Rintarou Okabe refuses to continue aiding time traveler Suzuha Amane in her mission to prevent World War III, believing any further efforts to save Makise Kurisu will be in vain. Shortly after, Okabe abandons his mad scientist persona and becomes a seemingly regular university student. \n\nOkabe's close friend Mayuri Shiina perceives him to be recovering from his trauma and is visibly happy. However, something still seems to be bothering Okabe. Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero marks the beginning of a critical divergence\u2014a timeline in which the burden of fate escalates beyond one's limits.\n\n[Written by MAL Rewrite]",
+    "mean": 8.26,
+    "rank": 321,
+    "popularity": 940,
+    "num_list_users": 273485,
+    "num_scoring_users": 152705,
+    "nsfw": "white",
+    "created_at": "2015-12-02T02:33:02+00:00",
+    "updated_at": "2024-09-10T02:37:31+00:00",
+    "media_type": "tv_special",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        },
+        {
+            "id": 41,
+            "name": "Suspense"
+        },
+        {
+            "id": 78,
+            "name": "Time Travel"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2015,
+        "season": "fall"
+    },
+    "source": "visual_novel",
+    "average_episode_duration": 1440,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/2/77311.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/2/77311l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/7/77324.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/7/77324l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1069/92053.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1069/92053l.jpg"
+        }
+    ],
+    "background": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero aired on December 3, 2015 during the rebroadcast of Steins;Gate to promote the Steins;Gate 0 visual novel, which was subsequently released on December 10, 2015. It was bundled with the Steins;Gate complete Blu-ray box set, released in Japan on February 5, 2016 and in North America on February 5, 2019 by Funimation Entertainment.\n\nThe special incorporates a majority of the Steins;Gate anime's 23rd episode, \"Open the Steins Gate,\" but features an entirely new alternative ending in its latter half.",
+    "studios": [
+        {
+            "id": 314,
+            "name": "White Fox"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "4877",
+            "completed": "217493",
+            "on_hold": "1690",
+            "dropped": "675",
+            "plan_to_watch": "48738"
+        },
+        "num_list_users": 273473
+    },
+    "ingestion_time": "2025-0211 20:30:08"
+}

@@ -1,0 +1,86 @@
+{
+    "id": 28805,
+    "title": "Bakemono no Ko",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/11/73540l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Child of a Beast"
+        ],
+        "en": "The Boy and the Beast",
+        "ja": "\u30d0\u30b1\u30e2\u30ce\u306e\u5b50"
+    },
+    "start_date": "2015-07-11",
+    "end_date": "2015-07-11",
+    "synopsis": "Two souls, living very different lives, wander alone and isolated in their respective worlds. For nine-year-old Ren, the last person who treated him with any form of kindness has been killed, and he is shunned by what is left of his family. With no parents, no real family, and no place to go, Ren escapes into the confusing streets and alleyways of Shibuya. Through the twists and turns of the alleys, Ren stumbles into the intimidating Kumatetsu, who leads him to the beast realm of Shibuten.\n\nFor Kumatetsu, the boy represents a chance for him to become a candidate to replace the lord of the realm once he retires. While nearly unmatched in combat, Kumatetsu's chilly persona leaves him with no disciples to teach and no way to prove he is worthy of becoming the lord's successor. \n\nWhile the two share different goals, they agree to help each other in order to reach them. Kumatetsu searches for recognition; Ren, now known as Kyuuta, searches for the home he never had. As the years pass by, it starts to become apparent that the two are helping each other in more ways than they had originally thought. Perhaps there has always been less of a difference between them, a boy and a beast, than either of the two ever realized.\n\n[Written by MAL Rewrite]",
+    "mean": 8.23,
+    "rank": 360,
+    "popularity": 560,
+    "num_list_users": 437897,
+    "num_scoring_users": 232369,
+    "nsfw": "white",
+    "created_at": "2014-12-11T08:10:06+00:00",
+    "updated_at": "2025-02-03T21:33:54+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 51,
+            "name": "Anthropomorphic"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 62,
+            "name": "Isekai"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2015,
+        "season": "summer"
+    },
+    "source": "original",
+    "average_episode_duration": 7140,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/11/69525.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/11/69525l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/5/73539.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/5/73539l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/11/73540l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1155/120572.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1155/120572l.jpg"
+        }
+    ],
+    "background": "With over \u00a55.8 billion in total, Bakemono no Ko was Japan's second highest-grossing domestic film of 2015. It won the Japan Academy Prize for Best Animated Feature, and was also nominated for an Annie Award in its independent category.",
+    "studios": [
+        {
+            "id": 555,
+            "name": "Studio Chizu"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "10385",
+            "completed": "299153",
+            "on_hold": "3003",
+            "dropped": "1167",
+            "plan_to_watch": "124165"
+        },
+        "num_list_users": 437873
+    },
+    "ingestion_time": "2025-0211 20:30:58"
+}

@@ -1,0 +1,94 @@
+{
+    "id": 59571,
+    "title": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1379/145452.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1379/145452l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Attack on Titan the Movie: The Last Attack"
+        ],
+        "en": "Attack on Titan: The Last Attack",
+        "ja": "\u5287\u5834\u7248 \u9032\u6483\u306e\u5de8\u4eba \u5b8c\u7d50\u7de8 THE LAST ATTACK"
+    },
+    "start_date": "2024-11-08",
+    "end_date": "2024-11-08",
+    "synopsis": "A compilation movie for Shingeki no Kyojin: The Final Season - Kanketsu-hen.",
+    "mean": 8.51,
+    "rank": 136,
+    "popularity": 4406,
+    "num_list_users": 28474,
+    "num_scoring_users": 2836,
+    "nsfw": "white",
+    "created_at": "2024-08-17T17:07:29+00:00",
+    "updated_at": "2024-08-18T00:40:07+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 8,
+            "name": "Drama"
+        },
+        {
+            "id": 58,
+            "name": "Gore"
+        },
+        {
+            "id": 38,
+            "name": "Military"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        },
+        {
+            "id": 76,
+            "name": "Survival"
+        },
+        {
+            "id": 41,
+            "name": "Suspense"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2024,
+        "season": "fall"
+    },
+    "source": "manga",
+    "average_episode_duration": 8700,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1972/144820.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1972/144820l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1379/145452.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1379/145452l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 569,
+            "name": "MAPPA"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "979",
+            "completed": "4208",
+            "on_hold": "428",
+            "dropped": "197",
+            "plan_to_watch": "22658"
+        },
+        "num_list_users": 28470
+    },
+    "ingestion_time": "2025-0211 20:23:25"
+}

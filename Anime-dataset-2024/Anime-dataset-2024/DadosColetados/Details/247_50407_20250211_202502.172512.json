@@ -1,0 +1,94 @@
+{
+    "id": 50407,
+    "title": "Wu Shan Wu Xing: Xichuan Huan Zi Lin",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1983/147467.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1983/147467l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Wu Shan Wu Xing 2nd Season"
+        ],
+        "en": "Fog Hill of Five Elements",
+        "ja": "\u96fe\u5c71\u4e94\u884c\u00b7\u7280\u5ddd\u5e7b\u7d2b\u6797"
+    },
+    "start_date": "2023-07-26",
+    "end_date": "2023-08-16",
+    "synopsis": "Second season of Wu Shan Wu Xing.",
+    "mean": 8.34,
+    "rank": 247,
+    "popularity": 5657,
+    "num_list_users": 15386,
+    "num_scoring_users": 4648,
+    "nsfw": "white",
+    "created_at": "2021-11-20T15:19:05+00:00",
+    "updated_at": "2023-09-10T07:12:03+00:00",
+    "media_type": "ona",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 13,
+            "name": "Historical"
+        },
+        {
+            "id": 17,
+            "name": "Martial Arts"
+        },
+        {
+            "id": 37,
+            "name": "Supernatural"
+        }
+    ],
+    "num_episodes": 4,
+    "start_season": {
+        "year": 2023,
+        "season": "summer"
+    },
+    "source": "original",
+    "average_episode_duration": 2328,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1433/119529.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1433/119529l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1333/136644.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1333/136644l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1881/137386.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1881/137386l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1983/147467.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1983/147467l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 1944,
+            "name": "Samsara Animation Studio"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "894",
+            "completed": "5908",
+            "on_hold": "246",
+            "dropped": "197",
+            "plan_to_watch": "8135"
+        },
+        "num_list_users": 15380
+    },
+    "ingestion_time": "2025-0211 20:25:02"
+}

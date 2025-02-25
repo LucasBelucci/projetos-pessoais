@@ -1,0 +1,98 @@
+{
+    "id": 44511,
+    "title": "Chainsaw Man",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "CSM"
+        ],
+        "en": "Chainsaw Man",
+        "ja": "\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3"
+    },
+    "start_date": "2022-10-12",
+    "end_date": "2022-12-28",
+    "synopsis": "Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji's brutal, untimely death, crushing all hope of him ever achieving happiness.\n\nRemarkably, an old contract allows Pochita to merge with the deceased Denji and bestow devil powers on him, changing him into a hybrid able to transform his body parts into chainsaws. Because Denji's new abilities pose a significant risk to society, the Public Safety Bureau's elite devil hunter Makima takes him in, letting him live as long as he obeys her command. Guided by the promise of a content life alongside an attractive woman, Denji devotes everything and fights with all his might to make his naive dreams a reality.\n\n[Written by MAL Rewrite]",
+    "mean": 8.46,
+    "rank": 158,
+    "popularity": 63,
+    "num_list_users": 1686841,
+    "num_scoring_users": 951506,
+    "nsfw": "white",
+    "created_at": "2020-12-09T12:09:06+00:00",
+    "updated_at": "2024-12-22T05:39:23+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 58,
+            "name": "Gore"
+        },
+        {
+            "id": 27,
+            "name": "Shounen"
+        },
+        {
+            "id": 82,
+            "name": "Urban Fantasy"
+        }
+    ],
+    "num_episodes": 12,
+    "start_season": {
+        "year": 2022,
+        "season": "fall"
+    },
+    "broadcast": {
+        "day_of_the_week": "wednesday",
+        "start_time": "00:00"
+    },
+    "source": "manga",
+    "average_episode_duration": 1480,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1915/110629.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1915/110629l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1632/110707.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1632/110707l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1803/132254.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1803/132254l.jpg"
+        }
+    ],
+    "background": "Chainsaw Man was released in four volumes on Blu-ray and DVD from January 27, 2023, to April 28, 2023. It adapts chapters 1-38 of the original manga.",
+    "studios": [
+        {
+            "id": 569,
+            "name": "MAPPA"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "212461",
+            "completed": "1125392",
+            "on_hold": "26645",
+            "dropped": "25520",
+            "plan_to_watch": "296686"
+        },
+        "num_list_users": 1686704
+    },
+    "ingestion_time": "2025-0211 20:23:45"
+}

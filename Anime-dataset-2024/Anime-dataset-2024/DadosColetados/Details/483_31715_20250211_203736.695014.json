@@ -1,0 +1,82 @@
+{
+    "id": 31715,
+    "title": "Working!!! Lord of the Takanashi",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/10/79375.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/10/79375l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Working!!! Episode 14"
+        ],
+        "en": "",
+        "ja": "WORKING!!! \u7b2c14\u8a71\u300c\u30ed\u30fc\u30c9\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u5c0f\u9ce5\u904a\u300d"
+    },
+    "start_date": "2016-03-30",
+    "end_date": "2016-03-30",
+    "synopsis": "The light-hearted Working!! franchise comes to a close in this final episode of the concluding season. Will Aoi Yamada get the closure she so desperately needs with her distant mother? Will the relationship between Yachiyo Todoroki and Jun Satou continue to remain stagnant and awkward? Perhaps even Souta Takanashi and Mahiru Inami will take a step forward in deepening their eccentric friendship. And in the end, Wagnaria Restaurant might finally get a new chief!\n\nBeautifully connected, all these events intertwine to give these characters a final ending to their stories.\n\n[Written by MAL Rewrite]",
+    "mean": 8.13,
+    "rank": 483,
+    "popularity": 2134,
+    "num_list_users": 105287,
+    "num_scoring_users": 59586,
+    "nsfw": "white",
+    "created_at": "2015-09-26T16:43:42+00:00",
+    "updated_at": "2022-10-20T00:34:31+00:00",
+    "media_type": "special",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 22,
+            "name": "Romance"
+        },
+        {
+            "id": 42,
+            "name": "Seinen"
+        },
+        {
+            "id": 48,
+            "name": "Workplace"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2016,
+        "season": "winter"
+    },
+    "source": "4_koma_manga",
+    "average_episode_duration": 2985,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/13/76416.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/13/76416l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/10/79375.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/10/79375l.jpg"
+        }
+    ],
+    "background": "Lord of Takanashi, the 14th episode of Working!!!, was broadcast in advance on Tokyo MX on December 26, 2015.",
+    "studios": [
+        {
+            "id": 56,
+            "name": "A-1 Pictures"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "2424",
+            "completed": "80942",
+            "on_hold": "854",
+            "dropped": "626",
+            "plan_to_watch": "20432"
+        },
+        "num_list_users": 105278
+    },
+    "ingestion_time": "2025-0211 20:37:36"
+}

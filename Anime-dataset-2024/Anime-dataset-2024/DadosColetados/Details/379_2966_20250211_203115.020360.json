@@ -1,0 +1,110 @@
+{
+    "id": 2966,
+    "title": "Ookami to Koushinryou",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Ookami to Koushinryou"
+        ],
+        "en": "Spice and Wolf",
+        "ja": "\u72fc\u3068\u9999\u8f9b\u6599"
+    },
+    "start_date": "2008-01-09",
+    "end_date": "2008-03-26",
+    "synopsis": "Holo is a powerful wolf deity who is revered in the small town of Pasloe for blessing the annual harvest. Yet as years go by and the villagers become more self-sufficient, Holo has been reduced to a mere folktale. When a traveling merchant named Kraft Lawrence stops at the settlement, Holo offers to become his business partner if he takes her to her northern home of Yoitsu. The savvy trader recognizes Holo's unusual ability to evaluate a person's character and accepts her proposition. \n\nNow in the possession of both sharp bargaining skills and a charismatic negotiator, Lawrence inches closer to his goal of opening his own shop. However, as Lawrence travels the countryside with Holo in search of economic opportunities, he begins to realize that his aspirations are slowly morphing into something unexpected.\n\n[Written by MAL Rewrite]\n",
+    "mean": 8.21,
+    "rank": 379,
+    "popularity": 233,
+    "num_list_users": 843843,
+    "num_scoring_users": 404438,
+    "nsfw": "white",
+    "created_at": "2007-08-10T11:05:27+00:00",
+    "updated_at": "2024-10-08T17:41:50+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 50,
+            "name": "Adult Cast"
+        },
+        {
+            "id": 2,
+            "name": "Adventure"
+        },
+        {
+            "id": 8,
+            "name": "Drama"
+        },
+        {
+            "id": 22,
+            "name": "Romance"
+        },
+        {
+            "id": 37,
+            "name": "Supernatural"
+        }
+    ],
+    "num_episodes": 13,
+    "start_season": {
+        "year": 2008,
+        "season": "winter"
+    },
+    "broadcast": {
+        "day_of_the_week": "wednesday",
+        "start_time": "01:30"
+    },
+    "source": "light_novel",
+    "average_episode_duration": 1430,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/2/6917.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/2/6917l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/11/19422.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/11/19422l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/13/22587.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/13/22587l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/3/22588.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/3/22588l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/13/22589.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/13/22589l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/5/59401l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1030/142763.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1030/142763l.jpg"
+        }
+    ],
+    "background": "Note: This entry contains all Spice and Wolf episodes, including the DVD-only episode #7.\nMore Info: Here\n\nOokami to Koushinryou was released on DVD and Blu-ray by Funimation Entertainment as Spice and Wolf on November 24, 2009 and August 30, 2011 respectively. \n\nAn internet radio show called Ookamikku Radio aired between December 7, 2007 to April 25, 2008 to promote the series. Hosted by Ami Koshimizu and Jun Fukuyama\u2014voice actors of Holo and Kraft Lawrence\u2014the show featured news about the anime, comments and submissions from listeners, and a radio drama.\n",
+    "studios": [
+        {
+            "id": 75,
+            "name": "Imagin"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "43133",
+            "completed": "495354",
+            "on_hold": "32401",
+            "dropped": "23196",
+            "plan_to_watch": "249663"
+        },
+        "num_list_users": 843747
+    },
+    "ingestion_time": "2025-0211 20:31:15"
+}

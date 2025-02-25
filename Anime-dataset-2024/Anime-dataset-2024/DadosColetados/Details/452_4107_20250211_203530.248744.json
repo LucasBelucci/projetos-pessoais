@@ -1,0 +1,91 @@
+{
+    "id": 4107,
+    "title": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1270/115752.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1270/115752l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Gekijouban Tengen Toppa Gurren Lagann: Guren-hen",
+            "Tengen Toppa Gurren Lagann the Movie"
+        ],
+        "en": "Gurren Lagann The Movie: Childhood's End",
+        "ja": "\u5287\u5834\u7248 \u5929\u5143\u7a81\u7834\u30b0\u30ec\u30f3\u30e9\u30ac\u30f3 \u7d05\u84ee\u7bc7"
+    },
+    "start_date": "2008-09-06",
+    "end_date": "2008-09-06",
+    "synopsis": "Animation studio Gainax presented a website for the release of a movie adaptation of the Tengen Toppa Gurren Lagann TV series in the fall of 2008. Both the original director and series script editor will return to work on the new project. Gainax will also be hosting four events to celebrate this occasion at this year's Tokyo International Anime Fair, featuring voice actors from the anime.",
+    "mean": 8.16,
+    "rank": 452,
+    "popularity": 1459,
+    "num_list_users": 171918,
+    "num_scoring_users": 85881,
+    "nsfw": "white",
+    "created_at": "2008-03-13T19:22:56+00:00",
+    "updated_at": "2023-09-17T05:35:48+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 18,
+            "name": "Mecha"
+        },
+        {
+            "id": 24,
+            "name": "Sci-Fi"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2008,
+        "season": "summer"
+    },
+    "source": "original",
+    "average_episode_duration": 6720,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/12/7503.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/12/7503l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/7/7740.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/7/7740l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/10/11373.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/10/11373l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1271/97275.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1271/97275l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1270/115752.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1270/115752l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 6,
+            "name": "Gainax"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "3470",
+            "completed": "121772",
+            "on_hold": "1561",
+            "dropped": "1016",
+            "plan_to_watch": "44092"
+        },
+        "num_list_users": 171911
+    },
+    "ingestion_time": "2025-0211 20:35:30"
+}

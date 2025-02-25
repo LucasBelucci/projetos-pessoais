@@ -1,0 +1,115 @@
+{
+    "id": 37965,
+    "title": "Kaze ga Tsuyoku Fuiteiru",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1936/129119.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1936/129119l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Kaze ga Tsuyoku Fuite Iru",
+            "Kazetsuyo"
+        ],
+        "en": "Run with the Wind",
+        "ja": "\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b"
+    },
+    "start_date": "2018-10-03",
+    "end_date": "2019-03-27",
+    "synopsis": "Former ace runner of Sendai Josei High School, Kakeru Kurahara is chased away from a convenience store for shoplifting. Shaking off his pursuer, he runs into Haiji Kiyose, another student from his university. Haiji is impressed by Kakeru's agility and persuades him to live in Chikusei-sou, the run-down apartment where Haiji resides along with eight other students. Having lost his entire apartment deposit at a mahjong parlor, Kakeru accepts the offer reluctantly.\n\nHowever, Haiji reveals a secret during Kakeru's welcoming party: the apartment is actually the dormitory of the Kansei University Track Club. He unveils his ultimate goal of participating in the Hakone Ekiden\u2014one of the most prominent university marathon relay races in Japan. Unfortunately, all the residents apart from Haiji and Kakeru are complete running novices. Worse still, none of the inhabitants are even remotely interested in being involved with Haiji's ridiculous plan! With only months before the deadline, will the fourth-year student be able to convince them otherwise and realize his elusive dream of running in the Hakone Ekiden?\n\n[Written by MAL Rewrite]",
+    "mean": 8.38,
+    "rank": 211,
+    "popularity": 815,
+    "num_list_users": 314885,
+    "num_scoring_users": 143403,
+    "nsfw": "white",
+    "created_at": "2018-07-20T18:39:19+00:00",
+    "updated_at": "2024-01-20T14:04:47+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 50,
+            "name": "Adult Cast"
+        },
+        {
+            "id": 8,
+            "name": "Drama"
+        },
+        {
+            "id": 3,
+            "name": "Racing"
+        },
+        {
+            "id": 30,
+            "name": "Sports"
+        }
+    ],
+    "num_episodes": 23,
+    "start_season": {
+        "year": 2018,
+        "season": "fall"
+    },
+    "broadcast": {
+        "day_of_the_week": "wednesday",
+        "start_time": "01:29"
+    },
+    "source": "novel",
+    "average_episode_duration": 1380,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1029/93168.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1029/93168l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1692/93918.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1692/93918l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1386/96287.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1386/96287l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1506/97916.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1506/97916l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1703/99436.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1703/99436l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1443/108866.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1443/108866l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1157/108897.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1157/108897l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1172/119300.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1172/119300l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1936/129119.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1936/129119l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 10,
+            "name": "Production I.G"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "24742",
+            "completed": "169342",
+            "on_hold": "11576",
+            "dropped": "9600",
+            "plan_to_watch": "99615"
+        },
+        "num_list_users": 314875
+    },
+    "ingestion_time": "2025-0211 20:24:31"
+}

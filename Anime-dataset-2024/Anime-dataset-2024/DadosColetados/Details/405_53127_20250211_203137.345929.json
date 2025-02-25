@@ -1,0 +1,106 @@
+{
+    "id": 53127,
+    "title": "Fate/strange Fake: Whispers of Dawn",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Fate/strange Fake Episode 0"
+        ],
+        "en": "Fate/strange Fake: Whispers of Dawn",
+        "ja": "Fate/strange Fake -Whispers of Dawn-"
+    },
+    "start_date": "2023-07-02",
+    "end_date": "2023-07-02",
+    "synopsis": "In the American city of Snowfield, a new Holy Grail War is about to erupt. Such ruthless confrontations pit against each other magic experts known as magi, who ascend to the status of Master by summoning Servants\u2014heroic spirits of the past. The winner is thought to have any one of their wishes granted.\n\nHowever, it appears that the organization behind the present situation has merely managed to create an imperfect copy of the Third Holy Grail War. As the unusual ritual catches the attention of the Mage's Association in London, Flatt Escardos, the young apprentice of Lord El-Melloi II\u2014a former participant of the Fourth Holy Grail War\u2014travels to Snowfield and, to the great dismay of his teacher, joins the ranks of the Masters.\n\nIn this fake conflict where the line between Masters and Servants is blurred, the different factions will have a hard time preventing the city of Snowfield from plunging into total chaos.\n\n[Written by MAL Rewrite]",
+    "mean": 8.19,
+    "rank": 405,
+    "popularity": 2348,
+    "num_list_users": 90994,
+    "num_scoring_users": 45718,
+    "nsfw": "white",
+    "created_at": "2022-09-24T07:50:54+00:00",
+    "updated_at": "2024-10-02T16:28:54+00:00",
+    "media_type": "tv_special",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 82,
+            "name": "Urban Fantasy"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2023,
+        "season": "summer"
+    },
+    "source": "light_novel",
+    "average_episode_duration": 3354,
+    "rating": "r",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1502/128320.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1502/128320l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1329/132201.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1329/132201l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1679/132203.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1679/132203l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1462/132204.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1462/132204l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1319/132205.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1319/132205l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1723/132206.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1723/132206l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1472/132207.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1472/132207l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1410/132208.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1410/132208l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1220/136619.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1220/136619l.jpg"
+        }
+    ],
+    "background": "",
+    "studios": [
+        {
+            "id": 56,
+            "name": "A-1 Pictures"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "3476",
+            "completed": "57729",
+            "on_hold": "700",
+            "dropped": "255",
+            "plan_to_watch": "28807"
+        },
+        "num_list_users": 90967
+    },
+    "ingestion_time": "2025-0211 20:31:37"
+}

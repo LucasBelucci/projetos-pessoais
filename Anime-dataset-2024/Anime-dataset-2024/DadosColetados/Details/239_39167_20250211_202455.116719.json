@@ -1,0 +1,82 @@
+{
+    "id": 39167,
+    "title": "Girls & Panzer: Saishuushou Part 4",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1652/138188.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1652/138188l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "Girls und Panzer das Finale Part 4"
+        ],
+        "en": "Girls und Panzer das Finale \u2013 Part 4",
+        "ja": "\u300e\u30ac\u30fc\u30eb\u30ba\uff06\u30d1\u30f3\u30c4\u30a1\u30fc \u6700\u7d42\u7ae0\u300f\u7b2c4\u8a71"
+    },
+    "start_date": "2023-10-06",
+    "end_date": "2023-10-06",
+    "synopsis": "The Winter Continuous Track Cup semifinals are underway and Ooarai Girls\u2019 Academy find themselves in deep trouble early in their match against Continuation High School. The Anglerfish Team are knocked out by Continuation's sharpshooter, forcing the rest of the team to use a different game plan. Stepping up in the absence of her star teammates, Azusa Sawa shows her leadership potential by temporarily taking over as Ooarai's commander. However, the match proves that it will take more than a new strategy for Ooarai to survive this time around.\n\nOn the other side of the tournament, Kuromorimine Girls' Academy and St. Gloriana Girls' College are locked in a fiery desert battle. Having developed her own unorthodox tactical style, Erika Itsumi rallies Kuromorimine from the brink of defeat into a fierce showdown against their opponent's veteran commander, Darjeeling. But St. Gloriana have bolstered their ranks with a familiar face who recently transferred to their school, hampering Kuromorimine's quest for victory.\n\nThe championship round is within striking distance for these four schools, but only two will have what it takes to move on!\n\n[Written by MAL Rewrite]",
+    "mean": 8.35,
+    "rank": 239,
+    "popularity": 5073,
+    "num_list_users": 20501,
+    "num_scoring_users": 5959,
+    "nsfw": "white",
+    "created_at": "2019-02-02T11:12:15+00:00",
+    "updated_at": "2024-09-30T14:54:30+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 52,
+            "name": "CGDCT"
+        },
+        {
+            "id": 38,
+            "name": "Military"
+        },
+        {
+            "id": 23,
+            "name": "School"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2023,
+        "season": "fall"
+    },
+    "source": "original",
+    "average_episode_duration": 3246,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1833/119627.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1833/119627l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1258/136970.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1258/136970l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1652/138188.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1652/138188l.jpg"
+        }
+    ],
+    "background": "Girls & Panzer: Saishuushou Part 4 was released on Blu-ray and DVD in Japan on March 27, 2024.",
+    "studios": [
+        {
+            "id": 60,
+            "name": "Actas"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "558",
+            "completed": "7739",
+            "on_hold": "207",
+            "dropped": "125",
+            "plan_to_watch": "11870"
+        },
+        "num_list_users": 20499
+    },
+    "ingestion_time": "2025-0211 20:24:55"
+}

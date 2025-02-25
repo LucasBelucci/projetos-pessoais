@@ -1,0 +1,94 @@
+{
+    "id": 40834,
+    "title": "Ousama Ranking",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1347/117616.jpg",
+        "large": "https://cdn.myanimelist.net/images/anime/1347/117616l.jpg"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "King Ranking"
+        ],
+        "en": "Ranking of Kings",
+        "ja": "\u738b\u69d8\u30e9\u30f3\u30ad\u30f3\u30b0"
+    },
+    "start_date": "2021-10-15",
+    "end_date": "2022-03-25",
+    "synopsis": "The people of the kingdom look down on the young Prince Bojji, who can neither hear nor speak. They call him \"The Useless Prince\" while jeering at his supposed foolishness.\n\nHowever, while Bojji may not be physically strong, he is certainly not weak of heart. When a chance encounter with a shadow creature should have left him traumatized, it instead makes him believe that he has found a friend amidst those who only choose to notice his shortcomings. He starts meeting with Kage, the shadow, regularly, to the point where even the otherwise abrasive creature begins to warm up to him.\n\nKage and Bojji's unlikely friendship lays the budding foundations of the prince's journey, one where he intends to conquer his fears and insecurities. Despite the constant ridicule he faces, Bojji resolves to fulfill his desire of becoming the best king he can be.\n\n[Written by MAL Rewrite]",
+    "mean": 8.5,
+    "rank": 144,
+    "popularity": 314,
+    "num_list_users": 694327,
+    "num_scoring_users": 365889,
+    "nsfw": "white",
+    "created_at": "2019-12-08T10:38:58+00:00",
+    "updated_at": "2023-06-22T22:31:49+00:00",
+    "media_type": "tv",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 2,
+            "name": "Adventure"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        }
+    ],
+    "num_episodes": 23,
+    "start_season": {
+        "year": 2021,
+        "season": "fall"
+    },
+    "broadcast": {
+        "day_of_the_week": "friday",
+        "start_time": "00:55"
+    },
+    "source": "web_manga",
+    "average_episode_duration": 1370,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1570/104667.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1570/104667l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1340/110088.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1340/110088l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1533/117141.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1533/117141l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1347/117616.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1347/117616l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1276/120398.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1276/120398l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1593/121471.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1593/121471l.jpg"
+        }
+    ],
+    "background": "The sign language depicted in Ousama Ranking is supervised by the Tokyo Foundation of the Deaf. The series was released on Blu-ray and DVD from January 12, 2022 to July 20, 2022.",
+    "studios": [
+        {
+            "id": 858,
+            "name": "Wit Studio"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "103619",
+            "completed": "398592",
+            "on_hold": "24981",
+            "dropped": "16755",
+            "plan_to_watch": "150316"
+        },
+        "num_list_users": 694263
+    },
+    "ingestion_time": "2025-0211 20:23:33"
+}

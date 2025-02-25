@@ -1,0 +1,95 @@
+{
+    "id": 38040,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+    "main_picture": {
+        "medium": "https://cdn.myanimelist.net/images/anime/1638/119321.webp",
+        "large": "https://cdn.myanimelist.net/images/anime/1638/119321l.webp"
+    },
+    "alternative_titles": {
+        "synonyms": [
+            "KonoSuba Movie",
+            "Eiga Kono Subarashii Sekai ni Shukufuku wo!"
+        ],
+        "en": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
+        "ja": "\u6620\u753b \u3053\u306e\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c\u306b\u795d\u798f\u3092\uff01\u7d05\u4f1d\u8aac"
+    },
+    "start_date": "2019-08-30",
+    "end_date": "2019-08-30",
+    "synopsis": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic.\n\nWhen Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang.\n\nThere, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.\n\n[Written by MAL Rewrite]",
+    "mean": 8.42,
+    "rank": 182,
+    "popularity": 241,
+    "num_list_users": 831031,
+    "num_scoring_users": 525545,
+    "nsfw": "white",
+    "created_at": "2018-07-21T22:12:10+00:00",
+    "updated_at": "2024-04-02T21:02:28+00:00",
+    "media_type": "movie",
+    "status": "finished_airing",
+    "genres": [
+        {
+            "id": 2,
+            "name": "Adventure"
+        },
+        {
+            "id": 4,
+            "name": "Comedy"
+        },
+        {
+            "id": 10,
+            "name": "Fantasy"
+        },
+        {
+            "id": 62,
+            "name": "Isekai"
+        },
+        {
+            "id": 20,
+            "name": "Parody"
+        }
+    ],
+    "num_episodes": 1,
+    "start_season": {
+        "year": 2019,
+        "season": "summer"
+    },
+    "source": "light_novel",
+    "average_episode_duration": 5400,
+    "rating": "pg_13",
+    "pictures": [
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1892/93231.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1892/93231l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1907/96074.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1907/96074l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1129/117109.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1129/117109l.jpg"
+        },
+        {
+            "medium": "https://cdn.myanimelist.net/images/anime/1638/119321.jpg",
+            "large": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg"
+        }
+    ],
+    "background": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu adapts volume 5 of Natsume Akatsuki's light novel series of the same name. ",
+    "studios": [
+        {
+            "id": 7,
+            "name": "J.C.Staff"
+        }
+    ],
+    "statistics": {
+        "status": {
+            "watching": "18528",
+            "completed": "682676",
+            "on_hold": "4094",
+            "dropped": "3329",
+            "plan_to_watch": "122350"
+        },
+        "num_list_users": 830977
+    },
+    "ingestion_time": "2025-0211 20:24:06"
+}

@@ -73,8 +73,8 @@ for tipo in type:
         collector.get_and_save()
 
 # %%    
-# import json
-json_file_path = "Anime-dataset-2024/DadosColetados/all/all_500_20250103_104237.844744.json"
+import json
+json_file_path = "Anime-dataset-2024/DadosColetados/all/all_500_20250211_201625.087177.json"
 
 
 url_anime = 'https://api.myanimelist.net/v2/anime/5114?fields=id,title,main_picture,alternative_titles,start_date,end_date,synopsis,mean,rank,popularity,num_list_users,num_scoring_users,nsfw,created_at,updated_at,media_type,status,genres,my_list_status,num_episodes,start_season,broadcast,source,average_episode_duration,rating,pictures,background,related_anime,related_manga,recommendations,studios,statistics'
@@ -92,7 +92,17 @@ save_directory = 'Anime-dataset-2024/DadosColetados/Details/'
 
 os.makedirs(save_directory, exist_ok=True)
 
-for i, node in zip(range(1,101), node_id):
+progress_file_path = 'progress.txt'
+
+if os.path.exists(progress_file_path):
+    with open(progress_file_path, 'r') as f:
+        last_processed_id = int(f.read().strip())
+    
+else:
+    last_processed_id = 0
+
+
+for i, node in enumerate(node_id[last_processed_id:], start=last_processed_id+1):
 
     url_anime = f'https://api.myanimelist.net/v2/anime/{node}?fields=id,title,main_picture,alternative_titles,start_date,end_date,synopsis,mean,rank,popularity,num_list_users,num_scoring_users,nsfw,created_at,updated_at,media_type,status,genres,my_list_status,num_episodes,start_season,broadcast,source,average_episode_duration,rating,pictures,background,studios,statistics'
     resp = requests.get(url_anime, headers={'X-MAL-CLIENT-ID': client_id})
@@ -107,6 +117,9 @@ for i, node in zip(range(1,101), node_id):
     
     with open(filename, "w") as open_file:
         json.dump(anime, open_file, indent=4)
+
+    with open(progress_file_path, 'w') as f:
+        f.write(str(i))
 
 # %%
 '''
