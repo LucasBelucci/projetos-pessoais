@@ -5,9 +5,14 @@ import datetime
 import os
 import pandas as pd
 import sqlalchemy
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Configuração da API
-client_id = '9b3882b98fa1b7771c34c38542be597a'
+client_id = os.getenv('API_KEY')
+
+print(client_id)
 
 # %%
 
